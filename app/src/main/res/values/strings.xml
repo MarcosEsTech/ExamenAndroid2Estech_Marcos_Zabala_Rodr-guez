@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamenAndroid2Estech_Marcos_Zabala_Rodríguez</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="error_campo_obligatorio">Campo obligatorio</string>
+    <string name="error_edad_incorrecta">La edad debe estar comprendida entre 0 y 150 años</string>
+    <string name="error_campo_numerico">Campo numerico</string>
+</resources>
